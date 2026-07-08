@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [games](#games) (1)
-- [math](#math) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 
 ---
@@ -24,11 +25,20 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Rishav-2205/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Java 21](https://github.com/Rishav-2205/codeforces-solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.java) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Rishav-2205/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Java 21](https://github.com/Rishav-2205/codeforces-solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/Rishav-2205/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Java 21](https://github.com/Rishav-2205/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.java) |
 
 ### number theory
 
